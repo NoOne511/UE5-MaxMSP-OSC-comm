@@ -19,5 +19,5 @@ Libraries needed in Max/MSP:
 ![Screenshot](https://github.com/NoOne511/UE5-MaxMSP-OSC-comm/assets/44483188/35841f54-13f4-4a57-ab9e-b597f4e4559f)
 
 # About
-Marta Rossi - [Nyctophilia Immersive Space](https://nyctophiliaimmersive.space/) - PhD resercher in immersive audio, Abertay University, Dundee, UK, 2024
+Marta Rossi - [Nyctophilia Immersive Space](https://nyctophiliaimmersive.space/) - PhD researcher in immersive audio, Abertay University, Dundee, UK, 2024
 
